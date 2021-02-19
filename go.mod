@@ -24,6 +24,7 @@ require (
 	github.com/gorilla/mux v1.7.4 // indirect
 	github.com/hashicorp/go-multierror v1.1.0
 	github.com/jackc/pgconn v1.3.2 // indirect
+	github.com/jittering/go-rails v0.0.0-20210219011441-8d4dad1de86f
 	github.com/kardianos/osext v0.0.0-20190222173326-2bc1f35cddc0 // indirect
 	github.com/ktrysmt/go-bitbucket v0.6.4
 	github.com/lib/pq v1.8.0
